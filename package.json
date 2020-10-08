@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/Varobinson/likeypix#readme",
   "dependencies": {
-    "pg-promise": "^10.7.0"
+    "pg": "^8.4.0",
+    "pg-promise": "^10.7.0",
+    "sequelize": "^6.3.5"
   }
 }
